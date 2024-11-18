@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\RSA для конфы\RSA для конфы\bin\Debug\netcoreapp3.1\RSA для конфы.exe
+C:\Users\Admin\source\repos\RSA для конфы\RSA для конфы\bin\Debug\netcoreapp3.1\RSA для конфы.deps.json
+C:\Users\Admin\source\repos\RSA для конфы\RSA для конфы\bin\Debug\netcoreapp3.1\RSA для конфы.runtimeconfig.json
+C:\Users\Admin\source\repos\RSA для конфы\RSA для конфы\bin\Debug\netcoreapp3.1\RSA для конфы.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\RSA для конфы\RSA для конфы\bin\Debug\netcoreapp3.1\RSA для конфы.dll
+C:\Users\Admin\source\repos\RSA для конфы\RSA для конфы\bin\Debug\netcoreapp3.1\RSA для конфы.pdb
+C:\Users\Admin\source\repos\RSA для конфы\RSA для конфы\obj\Debug\netcoreapp3.1\RSA для конфы.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\RSA для конфы\RSA для конфы\obj\Debug\netcoreapp3.1\RSA_для_конфы.Form1.resources
+C:\Users\Admin\source\repos\RSA для конфы\RSA для конфы\obj\Debug\netcoreapp3.1\RSA для конфы.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\RSA для конфы\RSA для конфы\obj\Debug\netcoreapp3.1\RSA для конфы.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\RSA для конфы\RSA для конфы\obj\Debug\netcoreapp3.1\RSA для конфы.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\RSA для конфы\RSA для конфы\obj\Debug\netcoreapp3.1\RSA для конфы.AssemblyInfo.cs
+C:\Users\Admin\source\repos\RSA для конфы\RSA для конфы\obj\Debug\netcoreapp3.1\RSA для конфы.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\RSA для конфы\RSA для конфы\obj\Debug\netcoreapp3.1\RSA для конфы.dll
+C:\Users\Admin\source\repos\RSA для конфы\RSA для конфы\obj\Debug\netcoreapp3.1\RSA для конфы.pdb
+C:\Users\Admin\source\repos\RSA для конфы\RSA для конфы\obj\Debug\netcoreapp3.1\RSA для конфы.genruntimeconfig.cache
